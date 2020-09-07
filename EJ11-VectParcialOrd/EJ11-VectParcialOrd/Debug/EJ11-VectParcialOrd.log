@@ -1,0 +1,6 @@
+﻿  Ej11-VectParcOrd.cpp
+C:\Users\Luis\Desktop\Las que me quedaron\FAL\Iterativo\EJ11-VectParcialOrd\EJ11-VectParcialOrd\Ej11-VectParcOrd.cpp(61,32): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Luis\Desktop\Las que me quedaron\FAL\Iterativo\EJ11-VectParcialOrd\EJ11-VectParcialOrd\Ej11-VectParcOrd.cpp(61,40): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Luis\Desktop\Las que me quedaron\FAL\Iterativo\EJ11-VectParcialOrd\EJ11-VectParcialOrd\Ej11-VectParcOrd.cpp(62,18): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Luis\Desktop\Las que me quedaron\FAL\Iterativo\EJ11-VectParcialOrd\EJ11-VectParcialOrd\Ej11-VectParcOrd.cpp(63,18): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+  EJ11-VectParcialOrd.vcxproj -> C:\Users\Luis\Desktop\Las que me quedaron\FAL\Iterativo\EJ11-VectParcialOrd\Debug\EJ11-VectParcialOrd.exe
