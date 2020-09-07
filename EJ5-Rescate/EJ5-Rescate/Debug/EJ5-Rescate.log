@@ -1,0 +1,4 @@
+﻿  EJ5-Rescate.cpp
+C:\Users\Luis\Desktop\Las que me quedaron\FAL\Ejs\EJ5-Rescate\EJ5-Rescate\EJ5-Rescate.cpp(42,9): warning C4244: 'argumento': conversión de 'unsigned __int64' a 'const unsigned int'; posible pérdida de datos
+  LINK : no se encontró C:\Users\Luis\Desktop\Las que me quedaron\FAL\Ejs\EJ5-Rescate\Debug\EJ5-Rescate.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  EJ5-Rescate.vcxproj -> C:\Users\Luis\Desktop\Las que me quedaron\FAL\Ejs\EJ5-Rescate\Debug\EJ5-Rescate.exe
