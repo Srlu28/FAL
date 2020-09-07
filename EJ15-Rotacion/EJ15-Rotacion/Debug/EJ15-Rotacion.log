@@ -1,0 +1,7 @@
+﻿  Ej15-Rotacion.cpp
+C:\Users\Luis\Desktop\Las que me quedaron\FAL\Iterativo\EJ15-Rotacion\EJ15-Rotacion\Ej15-Rotacion.cpp(10,13): warning C4244: 'return': conversión de 'const _Ty' a 'int'; posible pérdida de datos
+          with
+          [
+              _Ty=__int64
+          ]
+  EJ15-Rotacion.vcxproj -> C:\Users\Luis\Desktop\Las que me quedaron\FAL\Iterativo\EJ15-Rotacion\Debug\EJ15-Rotacion.exe
