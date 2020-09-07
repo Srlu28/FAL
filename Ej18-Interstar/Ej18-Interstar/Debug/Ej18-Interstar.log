@@ -1,0 +1,17 @@
+﻿  Ej18-Galactica.cpp
+C:\Users\Luis\source\repos\Ej18-Interstar\Ej18-Interstar\Ej18-Galactica.cpp(11,9): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Luis\source\repos\Ej18-Interstar\Ej18-Interstar\Ej18-Galactica.cpp(11,18): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Luis\source\repos\Ej18-Interstar\Ej18-Interstar\Ej18-Galactica.cpp(13,17): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Luis\source\repos\Ej18-Interstar\Ej18-Interstar\Ej18-Galactica.cpp(13,13): warning C4244: 'inicializando': conversión de '_Ty' a 'int'; posible pérdida de datos
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\Luis\source\repos\Ej18-Interstar\Ej18-Interstar\Ej18-Galactica.cpp(14,6): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Luis\source\repos\Ej18-Interstar\Ej18-Interstar\Ej18-Galactica.cpp(14,15): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Luis\source\repos\Ej18-Interstar\Ej18-Interstar\Ej18-Galactica.cpp(15,6): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Luis\source\repos\Ej18-Interstar\Ej18-Interstar\Ej18-Galactica.cpp(21,12): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\Luis\source\repos\Ej18-Interstar\Ej18-Interstar\Ej18-Galactica.cpp(26,13): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\Luis\source\repos\Ej18-Interstar\Ej18-Interstar\Ej18-Galactica.cpp(28,11): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\Luis\source\repos\Ej18-Interstar\Ej18-Interstar\Ej18-Galactica.cpp(28,39): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+  Ej18-Interstar.vcxproj -> C:\Users\Luis\source\repos\Ej18-Interstar\Debug\Ej18-Interstar.exe
