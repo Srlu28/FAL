@@ -1,0 +1,8 @@
+﻿  Ej3-TemperaturasExtremas.cpp
+C:\Users\Luis\Desktop\Las que me quedaron\FAL\Iterativo\EJ3-Temperaturas Extremas\EJ3-Temperaturas Extremas\Ej3-TemperaturasExtremas.cpp(11,21): warning C4244: 'inicializando': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\Luis\Desktop\Las que me quedaron\FAL\Iterativo\EJ3-Temperaturas Extremas\EJ3-Temperaturas Extremas\Ej3-TemperaturasExtremas.cpp(16,15): warning C4244: 'argumento': conversión de '__int64' a 'const _Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=int
+          ]
+  EJ3-Temperaturas Extremas.vcxproj -> C:\Users\Luis\Desktop\Las que me quedaron\FAL\Iterativo\EJ3-Temperaturas Extremas\Debug\EJ3-Temperaturas Extremas.exe
