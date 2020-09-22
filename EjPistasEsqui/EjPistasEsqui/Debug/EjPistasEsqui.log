@@ -1,0 +1,3 @@
+﻿  EjPistasEsqui.cpp
+C:\Users\srlu2\source\repos\EjPistasEsqui\EjPistasEsqui\EjPistasEsqui.cpp(11,29): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+  EjPistasEsqui.vcxproj -> C:\Users\srlu2\source\repos\EjPistasEsqui\Debug\EjPistasEsqui.exe
